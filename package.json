@@ -7,6 +7,9 @@
     "start": "nodemon index.js",
     "prod": "node index.js"
   },
+  "engines": {
+    "node": "16.8.0"
+  },
   "keywords": [],
   "author": "Andrey",
   "license": "ISC",
